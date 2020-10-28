@@ -10,7 +10,7 @@
       "_quantity": 1
     },
     {
-      "_function": "constant",
+      "_function": "afim",
       "_quantity": 2
     }
   ],
