@@ -14,50 +14,62 @@
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 23,
-      "_posY": 8
-    },
-    {
-      "_type": "rescue_fish",
-      "_subtype": "turtle",
-      "_posX": 15,
-      "_posY": 7
-    },
-    {
-      "_type": "rescue_fish",
-      "_subtype": "turtle",
-      "_posX": 3,
-      "_posY": 21
-    },
-    {
-      "_type": "star",
-      "_subtype": "-",
-      "_posX": 19,
-      "_posY": 8
-    },
-    {
-      "_type": "star",
-      "_subtype": "-",
       "_posX": 12,
-      "_posY": 3
+      "_posY": 5
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 16,
+      "_posY": 1
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 20,
+      "_posY": -4
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 10,
+      "_posY":-4
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 21,
+      "_posY": 5
     },
     {
       "_type": "obstacle",
       "_subtype": "rock",
-      "_posX": 18,
-      "_posY": 6
+      "_posX": 10,
+      "_posY": 0
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 14,
+      "_posY": -5
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 16,
+      "_posY": 7
     },
     {
       "_type": "obstacle",
       "_subtype": "pilar",
-      "_posX": 10,
-      "_posY": 1
+      "_posX": 23,
+      "_posY": 4
     },
     {
       "_type": "relic",
       "_subtype": "bone",
-      "_posX": 28,
-      "_posY": 5
+      "_posX": 25,
+      "_posY": 3
     }
   ]
 }
