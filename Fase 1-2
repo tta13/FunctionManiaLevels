@@ -1,0 +1,67 @@
+{
+  "_world": 1,
+  "_level": 2,
+  "_fishesToRescue": 3,
+  "_starsToCollect": 2,
+  "_relicsHidden": 1,
+  "_shotsAvailable": [
+    {
+      "_function": "linear",
+      "_quantity": 1
+    },
+    {
+      "_function": "constant",
+      "_quantity": 2
+    }
+  ],
+  "_levelElements": [
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 15,
+      "_posY": 2
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 20,
+      "_posY": 5
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 27,
+      "_posY": 3
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 22,
+      "_posY": 2
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 29,
+      "_posY": 6
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 23,
+      "_posY": 6
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "pilar",
+      "_posX": 10,
+      "_posY": 0
+    },
+    {
+      "_type": "relic",
+      "_subtype": "bone",
+      "_posX": 17,
+      "_posY": 5
+    }
+  ]
+}
